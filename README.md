@@ -4,4 +4,4 @@
 #One function will write nucleotides to a file, creating a fasta file. The sequence will be highly repetitive and these particular repeats will be found throughout the sequence.
 #The next function will be a motif finder. The motif finder will parse through a fasta or fastq file to detect and record information about repeats in the sequence.
 
-https://docs.google.com/forms/d/1cnkcZAeOAdRN__T2zNvfmOPIeFolhUqYm9xgM8Iugfk/edit
+https://docs.google.com/forms/d/e/1FAIpQLSewbjvYI5IMeOcPKmnG9-fje_9yllPDGQC04_o3ouFrJzhOXg/viewform
